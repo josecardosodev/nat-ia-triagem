@@ -1,5 +1,18 @@
+# Credenciais
 .env
+
+# Python
 __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Ferramentas
+.pytest_cache/
+.ruff_cache/
+
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
